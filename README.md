@@ -1,2 +1,2 @@
 # simple-codes
-the name already says.
+I'm starting to program, these codes are the beginning of my learning.
