@@ -1,0 +1,9 @@
+meters = float(input("type it the height (in meters):"))
+dam = meters / 10
+hm = meters / 100
+kilo = meters / 1000
+hegt = meters * 10
+degt = meters * 100
+mlmt = meters * 1000
+print("this height in dam is {} \n in hm is {} \n in km is {}".format(dam, hm, kilo))
+print("in cm is {}\n in htm is {}\n in mlmt is {}".format(hegt, degt, mlmt))
